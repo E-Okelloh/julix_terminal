@@ -1,4 +1,4 @@
-# RusTerm - A Modern Terminal Emulator Built with Rust
+# Julix - A Modern Terminal Emulator Built with Rust
 
 <div align="center">
 
