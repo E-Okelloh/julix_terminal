@@ -16,7 +16,7 @@
 
 ##  About
 
-RusTerm is a modern, cross-platform terminal emulator built from the ground up in Rust. Designed with performance, safety, and extensibility in mind, RusTerm aims to provide a superior terminal experience with GPU-accelerated rendering, full VT100/xterm compatibility, and a rich feature set.
+Julix is a modern, cross-platform terminal emulator built from the ground up in Rust. Designed with performance, safety, and extensibility in mind, Julix aims to provide a superior terminal experience with GPU-accelerated rendering, full VT100/xterm compatibility, and a rich feature set.
 
 ### Why RusTerm?
 
